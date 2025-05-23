@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParOImpar", "ParOImpar\ParOImpar.csproj", "{4E11B5CD-FFBA-4DA2-A177-BE8FEEE71496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprovadoReprovado", "AprovadoReprovado\AprovadoReprovado.csproj", "{1E69AF6C-FB79-4ACB-80A3-89F67FDA1AF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4E11B5CD-FFBA-4DA2-A177-BE8FEEE71496}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E11B5CD-FFBA-4DA2-A177-BE8FEEE71496}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E11B5CD-FFBA-4DA2-A177-BE8FEEE71496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E69AF6C-FB79-4ACB-80A3-89F67FDA1AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E69AF6C-FB79-4ACB-80A3-89F67FDA1AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E69AF6C-FB79-4ACB-80A3-89F67FDA1AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E69AF6C-FB79-4ACB-80A3-89F67FDA1AF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
